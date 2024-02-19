@@ -2,7 +2,7 @@
 # Bootstrapping variables
 ##########################
 
-AWS_BRANCH ?= "dev"
+AWS_BRANCH ?= "master"
 STACK_NAME ?= "UNDEFINED"
 DEPLOYMENT_BUCKET_NAME ?= "UNDEFINED"
 SAM_BUILD_EXTRA_ARGS ?= ""
